@@ -13,6 +13,8 @@
 | Pierre Souquet | pierre.souquet@total.com |
 | Suja Rajan | srajan@crimson.ua.edu |
 | Nikaela Flournoy | nyflournoy@crimson.ua.edu |
+| Vince Sandifer | vince.sandifer@ou.edu |
+|||
 |||
 
-acallaghan@ou.edu; cmarks@ou.edu; jamiejohnson@ou.edu; jsuflita@ou.edu; jtcooper@ou.edu; renxing.liang-1@ou.edu; kathleen.e.duncan-1@ou.edu; ibeech@ou.edu; pierre.souquet@total.com; srajan@crimson.ua.edu; nyflournoy@crimson.ua.edu; 
+acallaghan@ou.edu; cmarks@ou.edu; jamiejohnson@ou.edu; jsuflita@ou.edu; jtcooper@ou.edu; renxing.liang-1@ou.edu; kathleen.e.duncan-1@ou.edu; ibeech@ou.edu; pierre.souquet@total.com; srajan@crimson.ua.edu; nyflournoy@crimson.ua.edu; vince.sandifer@ou.edu
