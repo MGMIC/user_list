@@ -2,8 +2,8 @@
 
  Name | email |
  :--- | :--- |
-| Christopher Marks | cmarks@ou.edu |
 | Amy Callaghan | acallaghan@ou.edu  |
+| Christopher Marks | cmarks@ou.edu |
 | Jamie Johnson | jamiejohnson@ou.edu |
 | Joe Suflita | jsuflita@ou.edu |
 | Joshua Cooper | jtcooper@ou.edu |
@@ -14,3 +14,5 @@
 | Suja Rajan | srajan@crimson.ua.edu |
 | Nikaela Flournoy | nyflournoy@crimson.ua.edu |
 |||
+
+acallaghan@ou.edu; cmarks@ou.edu; jamiejohnson@ou.edu; jsuflita@ou.edu; jtcooper@ou.edu; renxing.liang-1@ou.edu; kathleen.e.duncan-1@ou.edu; ibeech@ou.edu; pierre.souquet@total.com; srajan@crimson.ua.edu; nyflournoy@crimson.ua.edu; 
